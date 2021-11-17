@@ -1,0 +1,33 @@
+[
+    {
+    "origin":"Indore" ,
+    "Destintion":"Pune",
+    "charges":"1700Rs",
+    "flight code":"ip2001",
+    "date":"2021-11-18"
+},
+
+{
+    "origin":"Pune" ,
+    "Destintion":"Indore",
+    "charges":"1700Rs",
+    "flight code":"ip2001",
+    "date":"2021-11-18"
+},
+{
+    "origin":"Delhi" ,
+    "Destintion":"Mumbai",
+    "charges":"1700Rs",
+    "flight code":"ip2001",
+    "date":"2021-11-18"
+},
+
+{
+    "origin":"Mumbai" ,
+    "Destintion":"Delhi",
+    "charges":"1700Rs",
+    "flight code":"ip2001",
+    "date":"2021-11-18"
+}
+
+]
